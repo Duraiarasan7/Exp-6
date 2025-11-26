@@ -1,39 +1,34 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
 # AIM:
-To study the problem statement, SRS document and draw all the UML diagrams of Exam Registration System
+To develop a simple online system for students to register and participate in exams.
+
 # SRS (Procedure):
-1.The admin registers students and instructors in the system.
-2.The instructor creates the exam and adds questions.
-3.The admin reviews and approves the exam schedule.
-4.The student logs in and views available exams.
-5.The student attends the exam and submits answers.
-6.The system and instructor evaluate the exam.
-7.The admin publishes the result and students view their marks.
+1.Study the requirements of the Student Online Exam Registration System.
+
+2.Draw the required UML/other diagrams such as Use Case, Activity, Sequence, Class, DFD, and ER diagrams.
+
+3.Document the working of the system using SRS.
+
+4.Conclude the working of the system.
 # DIAGRAMS:
-USECASE DIAGRAM:
+# USECASE DIAGRAM:
+<img width="1249" height="878" alt="image" src="https://github.com/user-attachments/assets/3e01c60a-d052-4fca-b2df-581eba092e75" />
 
-<img width="836" height="697" alt="image" src="https://github.com/user-attachments/assets/028e0a1e-f9ea-4d21-b0cb-dfa1445c9d07" />
+# CLASS DIAGRAM:
+<img width="1303" height="914" alt="image" src="https://github.com/user-attachments/assets/666e5a34-5834-417c-9a04-949fffc6b005" />
 
-CLASS DIAGRAM:
+# ACTIVITY DIAGRAM:
+<img width="1268" height="888" alt="image" src="https://github.com/user-attachments/assets/91567cfc-9369-40e4-a11e-87fd7980ae14" />
 
-<img width="807" height="609" alt="image" src="https://github.com/user-attachments/assets/a1e59472-3a27-4c65-b4ac-579480f5df2f" />
+# COMMUNICATION DIAGRAM:
+<img width="1277" height="898" alt="image" src="https://github.com/user-attachments/assets/4de05b7b-4b09-4449-b72e-ee45fb6354df" />
 
-PACKAGE DIAGRAM:
+# SEQUENCE DIAGRAM:
+<img width="1282" height="907" alt="image" src="https://github.com/user-attachments/assets/cf870690-8a29-4eda-b02c-51c88ead288b" />
 
-<img width="813" height="645" alt="image" src="https://github.com/user-attachments/assets/0fd9a525-d17f-45f3-9b48-da7d7e5306de" />
-
-COMMUNICATION DIAGRAM:
-
-<img width="788" height="676" alt="image" src="https://github.com/user-attachments/assets/575feaa3-55dc-4fda-9a65-7b680cd17734" />
-
-SEQUENCE DIAGRAM:
-
-<img width="784" height="714" alt="image" src="https://github.com/user-attachments/assets/fca2ce0a-99f6-4646-9a5b-dc97b38a1ecb" />
-
-ACTIVITY DIAGRAM:
-
-<img width="933" height="1017" alt="image" src="https://github.com/user-attachments/assets/177d418c-f5c3-4431-b1f7-890b252fa8f9" />
+# PACKAGE DIAGRAM:
+<img width="940" height="536" alt="image" src="https://github.com/user-attachments/assets/2ede58b7-0450-4003-9a7b-d2492298661c" />
 
 # RESULT:
-Thus the Online Examination system project was executed and the output was verified.
+The Student Online Exam Registration System was successfully analyzed and the required diagrams were prepared.
